@@ -1,0 +1,196 @@
+.games-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #c2f37b;
+}
+.games-hero {
+  height: 1834px;
+  position: relative;
+  align-items: flex-start;
+  margin-bottom: 1px;
+  justify-content: flex-start;
+}
+.games-container1 {
+  top: 7px;
+  flex: 0 0 auto;
+  right: -2px;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link {
+  text-decoration: none;
+}
+.games-container2 {
+  top: 451px;
+  flex: 0 0 auto;
+  right: -9px;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text03 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link1 {
+  text-decoration: none;
+}
+.games-container3 {
+  top: 917px;
+  flex: 0 0 auto;
+  right: -9px;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text06 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link2 {
+  text-decoration: none;
+}
+.games-container4 {
+  flex: 0 0 auto;
+  right: -10px;
+  width: 488px;
+  bottom: -12px;
+  height: 461px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text09 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link3 {
+  text-decoration: none;
+}
+.games-container5 {
+  flex: 0 0 auto;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text10 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link4 {
+  text-decoration: none;
+}
+.games-container6 {
+  flex: 0 0 auto;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text11 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link5 {
+  text-decoration: none;
+}
+.games-container7 {
+  flex: 0 0 auto;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text12 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link6 {
+  text-decoration: none;
+}
+.games-container8 {
+  flex: 0 0 auto;
+  width: 488px;
+  height: 461px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text15 {
+  color: var(--dl-color-scheme-white);
+  font-size: 42px;
+  font-style: normal;
+  font-family: Urbanist;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.games-link7 {
+  text-decoration: none;
+}
