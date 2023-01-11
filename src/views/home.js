@@ -22,11 +22,27 @@ const Home = (props) => {
             />
           </div>
           <div className="home-links">
-            <span className="home-text navbarLink">How it works</span>
+            <a href="#how it works" className="home-text navbarLink">
+              How it works
+            </a>
             <span className="home-text01 navbarLink">Features</span>
             <span className="home-text02 navbarLink">Blog</span>
-            <button className="button-secondary button">THANKS</button>
-            <button className="button button-primary">SUBSCRIBE</button>
+            <a
+              href="https://guzuv.ml"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="home-link button-secondary button"
+            >
+              THANKS
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UChTBftFlCQLReSg57pMOOFg"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="home-link1 button button-primary"
+            >
+              SUBSCRIBE
+            </a>
           </div>
           <div className="home-burger-menu navbar-burger-menu">
             <svg viewBox="0 0 1024 1024" className="home-icon">
@@ -68,7 +84,7 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-section section-container">
-        <div className="home-max-width2 max-width">
+        <div id="how it works" className="home-max-width2 max-width">
           <div className="home-image3"></div>
           <img
             alt="image"
@@ -120,13 +136,16 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-section2 section-container">
-        <div className="home-max-width4 max-width">
+        <div id="get started" className="home-max-width4 max-width">
           <div className="home-image5">
-            <img
-              alt="image"
-              src="/playground_assets/jc-gellidon-fnc3yctccoi-unsplash%2014%20%5B1%5D-1200w.png"
-              className="home-hero-image3"
-            />
+            <video
+              src="https://www.youtube.com/watch?v=stNSi_kfmNk"
+              poster="https://www.youtube.com/watch?v=stNSi_kfmNk"
+              autoPlay
+              loop
+              preload="auto"
+              className="home-video"
+            ></video>
           </div>
           <div className="home-content3">
             <span className="home-text17 beforeHeading">get started</span>
