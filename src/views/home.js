@@ -140,10 +140,10 @@ const Home = (props) => {
           <div className="home-image5">
             <video
               src="https://www.youtube.com/watch?v=stNSi_kfmNk"
-              poster="https://www.youtube.com/watch?v=stNSi_kfmNk"
-              autoPlay
               loop
+              poster="https://www.youtube.com/watch?v=stNSi_kfmNk"
               preload="auto"
+              autoPlay
               className="home-video"
             ></video>
           </div>
