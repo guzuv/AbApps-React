@@ -8,10 +8,10 @@
   background-color: #c2f37b;
 }
 .games-hero {
-  height: 1834px;
+  height: 1842px;
   position: relative;
   align-items: flex-start;
-  margin-bottom: 967px;
+  margin-bottom: 403px;
   justify-content: flex-start;
 }
 .games-container01 {
@@ -219,10 +219,10 @@
   text-decoration: none;
 }
 .games-container10 {
+  top: 1829px;
   flex: 0 0 auto;
-  left: -3px;
+  left: 357px;
   width: 488px;
-  bottom: 434px;
   height: 461px;
   display: flex;
   position: absolute;
